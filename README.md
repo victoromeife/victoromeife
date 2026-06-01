@@ -1,79 +1,75 @@
 # Hi, I'm Victor Omeife 👋
 
-## React & Full-Stack Developer
+## Frontend & Full-Stack Developer
 
 I build modern web applications using React, TypeScript, Node.js, Express, and MongoDB.
 
-Currently focused on building scalable frontend experiences, full-stack web applications, and real-world software solutions.
+Over the past year, I've worked on projects ranging from educational management systems and healthcare platforms to portfolio CMS applications and interactive quiz systems.
 
 ### Tech Stack
 
-#### Frontend
+**Frontend**
 
 * React
 * TypeScript
-* JavaScript (ES6+)
+* JavaScript
 * Tailwind CSS
+* Framer Motion
 * HTML5
 * CSS3
-* Framer Motion
 
-#### Backend
+**Backend**
 
 * Node.js
 * Express.js
 * MongoDB
 * REST APIs
+* JWT Authentication
 
-#### Tools
+**Tools**
 
 * Git
 * GitHub
 * Postman
+* Firebase
+* MongoDB Atlas
 * Vercel
-* VS Code
 
----
+### Featured Projects
 
-## Featured Projects
+#### School Management System
 
-### School Management System
+Full-stack MERN platform featuring authentication, role-based dashboards, academic management, and administrative controls.
 
-Full-stack MERN application with authentication, role-based access control, student management, teacher management, and admin dashboard.
+#### Portfolio CMS
 
-**Tech:** React, Node.js, Express, MongoDB
+Full-stack portfolio management system built with React, TypeScript, Express, MongoDB, and JWT authentication.
 
-### Health Management System
+#### Healthcare Management System Backend
 
-Backend development for a healthcare management platform built as part of a university final-year project.
+Designed and developed authentication, database schemas, APIs, and backend architecture for a healthcare platform.
 
-**Tech:** Node.js, Express, MongoDB
+#### Cerebrum Quiz Platform
 
-### Cerebrum Quiz App
+Interactive quiz application with analytics, leaderboards, API integration, and timed assessments.
 
-Interactive quiz platform featuring timed quizzes, category selection, API integration, score tracking, and responsive design.
+### Current Focus
 
-**Tech:** React, JavaScript, REST APIs
+* Advanced React Development
+* TypeScript Best Practices
+* Scalable Backend Architecture
+* Building Production-Ready Applications
 
-### Cargo Logistics Website
+### Connect With Me
 
-Responsive logistics and cargo company website.
+Portfolio:
+my-portfolio-website-43a98.web.app
 
-**Tech:** HTML, CSS, JavaScript
+LinkedIn:
+linkedin.com/in/victoromeife
 
----
+GitHub:
+github.com/victoromeife
 
-## Current Goals
-
-* Building production-quality TypeScript applications
-* Mastering Next.js
-* Contributing to real-world projects
-* Securing a remote frontend or full-stack developer role
-
----
-
-## Contact
-
-📧 Email: [victordesigns36@gmail.com](mailto:victordesigns36@gmail.com)
-
-💼 Open to remote opportunities worldwide
+Email:
+[victordesigns36@gmail.com](mailto:victordesigns36@gmail.com)
