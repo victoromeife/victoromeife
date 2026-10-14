@@ -63,7 +63,7 @@ Interactive quiz application with analytics, leaderboards, API integration, and 
 ### Connect With Me
 
 Portfolio:
-my-portfolio-website-43a98.web.app
+https://victor-omeife.vercel.app
 
 LinkedIn:
 linkedin.com/in/victoromeife
@@ -71,5 +71,10 @@ linkedin.com/in/victoromeife
 GitHub:
 github.com/victoromeife
 
+X:
+x.com/victoromeife
+
+Instagram:
+instagram.com/designs.victor
 Email:
 [victordesigns36@gmail.com](mailto:victordesigns36@gmail.com)
