@@ -1,6 +1,6 @@
 # Hi, I'm Victor Omeife 👋
 
-## Frontend & Full-Stack Developer
+## Full-Stack Developer
 
 I build modern web applications using React, TypeScript, Node.js, Express, and MongoDB.
 
@@ -72,9 +72,9 @@ GitHub:
 github.com/victoromeife
 
 X:
-x.com/victoromeife
+https://x.com/victoromeife
 
 Instagram:
-instagram.com/designs.victor
+https://instagram.com/designs.victor
 Email:
 [victordesigns36@gmail.com](mailto:victordesigns36@gmail.com)
